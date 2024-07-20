@@ -37,3 +37,7 @@
 
 **Development Environment**
 **Jupyter Notebook:** Chosen for its ability to integrate code execution, rich text, and visualizations in a single document, facilitating an interactive development process.
+
+
+![txttospeech](https://github.com/user-attachments/assets/c0b5c8c3-2633-42fe-803c-08a53cad3e15)
+
