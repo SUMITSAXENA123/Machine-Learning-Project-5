@@ -1,5 +1,5 @@
-# # CODTECHIT SOLUTIONS Machine-Learning-Project-6
-**ML project 6- TEXT TO IMAGE GENERATION**
+# # CODTECHIT SOLUTIONS Machine-Learning-Project-5
+**ML project 5- TEXT TO SPEECH GENERATION**
 
 **NAME: SUMIT SAXENA**
 
